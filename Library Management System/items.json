@@ -1,0 +1,12 @@
+[
+    {
+        "item_id": "B001",
+        "title": "1984",
+        "item_type": "Book"
+    },
+    {
+        "item_id": "D001",
+        "title": "Inception",
+        "item_type": "DVD"
+    }
+]

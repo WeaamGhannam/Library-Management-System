@@ -1,0 +1,12 @@
+[
+    {
+        "user_id": "U001",
+        "name": "Alma",
+        "borrowed_items": ["B001"]
+    },
+    {
+        "user_id": "U002",
+        "name": "jad",
+        "borrowed_items": []
+    }
+]
